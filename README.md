@@ -1,2 +1,2 @@
 # Enterprise-Resource-Planning-App
-Streamlit to showcase Enterprise Resource Planning 
+Streamlit App to showcase Enterprise Resource Planning 
